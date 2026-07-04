@@ -1,19 +1,19 @@
-🌌 Solar System Animation
+🔐 Modern Login & Registration UI
 
-A visually engaging Solar System built using HTML and CSS. This project demonstrates CSS animations, orbital motion, positioning, and creative frontend design without relying on JavaScript.
+A clean and vibrant authentication interface designed using HTML and CSS. This project focuses on creating an attractive and responsive user interface suitable for modern web applications.
 
 ✨ Features
 
-- ☀️ Animated Sun and planets
-- 🪐 Smooth orbital motion
-- 🎨 Pure HTML & CSS
-- 📱 Responsive design
-- ⚡ Lightweight and beginner-friendly
+- Beautiful Login Page
+- Registration Form
+- Smooth UI Effects
+- Responsive Layout
+- Clean Design
 
 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Animations, Transforms & Keyframes)
+- CSS3
 
 🚀 Live Demo
 
@@ -21,22 +21,23 @@ A visually engaging Solar System built using HTML and CSS. This project demonstr
 
 📷 Preview
 
-Add a screenshot or GIF here.
+Insert screenshots or GIF.
 
 📚 What I Learned
 
-- CSS Keyframes
-- Positioning and Transformations
-- Animation Timing
-- Creative UI Design
+- Form Design
+- Flexbox
+- Responsive Layouts
+- UI/UX Principles
+- CSS Transitions
 
 💡 Future Improvements
 
-- Planet information popup
-- Speed controls
-- Dark/Light themes
-- JavaScript interactions
+- Backend Authentication
+- Password Visibility Toggle
+- Form Validation
+- Dark Mode
 
 ---
 
-⭐ If you enjoyed this project, consider giving it a star!
+⭐ Feedback and suggestions are always welcome!
