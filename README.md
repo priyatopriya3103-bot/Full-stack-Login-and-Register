@@ -1,4 +1,4 @@
-🔐 Modern Login & Registration UI
+🔐 Modern Login & Registration UI (3D Flip Login)
 
 A clean and vibrant authentication interface designed using HTML and CSS. This project focuses on creating an attractive and responsive user interface suitable for modern web applications.
 
@@ -12,16 +12,13 @@ A clean and vibrant authentication interface designed using HTML and CSS. This p
 
 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 🚀 Live Demo
 
-👉 Add your GitHub Pages link here
+👉 https://priyatopriya3103-bot.github.io/Full-stack-Login-and-Register/
 
-📷 Preview
-
-Insert screenshots or GIF.
 
 📚 What I Learned
 
